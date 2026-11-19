@@ -1,1 +1,2 @@
 # noteflow_model
+Gemma is provided under and subject to the Gemma Terms of Use found at ai.google.dev/gemma/terms
